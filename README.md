@@ -9,9 +9,9 @@
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-mandal-417580384)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-mandal-417580384)  
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msandeepkumar451@gmail.com)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_THM_LINK)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Theroothex)   
 
 ---
 
@@ -21,7 +21,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-Basic-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🌐 Web & Backend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
