@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Sandeep Mandal  
 ### 🛡️ Final-Year Cybersecurity Student | SOC Analyst | Security Administrator  
 
-🚀 Passionate about Blue Teaming, Threat Detection, DFIR, and practical cybersecurity challenges  
+🚀 Building a future in cybersecurity through hands-on defense, analytical thinking, and continuous evolution, with a passion for solving security challenges and transforming knowledge into real-world impact.
 
 ---
 
